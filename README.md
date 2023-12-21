@@ -4,6 +4,17 @@ Exercise solutions and cmake projects for:
 
    * AC++11-401 Transitioning to Modern C++ (C++11/14/17)
 
+**Contents**
+- [Transitioning to Modern C++ (C++11/14/17) Exercises](#transitioning-to-modern-c-c111417-exercises)
+- [Folder structure](#folder-structure)
+  - [Solutions](#solutions)
+- [Build Toolchain](#build-toolchain)
+  - [Build the application](#build-the-application)
+  - [Visual Studio shortcuts](#visual-studio-shortcuts)
+  - [Command line builds](#command-line-builds)
+  - [Building an exercise solution](#building-an-exercise-solution)
+- [Disclaimer](#disclaimer)
+
 # Folder structure
 
 ## Solutions
